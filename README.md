@@ -1,1 +1,1 @@
-# python-
+Merhaba ben Büşra Sağır. Kaggle'da bulunan "NBA Team Game Stats from 2014 to 2018" isimli veri setini kullanarak veri bilimi projesi yaptım. Bu veri setinde; takım, oyun, kazandı/kaybetti, takım puanı, rakip takım puanı gibi 41 farklı girdi vardı. Ben bunları kullanarak bir takımın bir sezon boyunca oynadığı maçların ne kadarını kazanabileceğini tahmin etmeye çalıştım. Çalışmalarım sırasında Numpy, Pandas, Matplotlib, Seaborn kütüphanelerini kullandım.
